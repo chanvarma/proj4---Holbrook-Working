@@ -11,3 +11,10 @@ For this project we were asked to work with expenditure and consumption data for
 ## The Data
 
 We chose to work with CA households and create new policy proposals to improve the health and wellbeing of foodstamps users.
+
+
+## Final presentation
+
+Our in class presentation is linked below.
+
+- [Final presentation](https://docs.google.com/open?id=19tg1ibcsOVh1OC5GgCUPYzfmPeRmWqU4S71AyLqMH3A&authuser=chanakya%40berkeley.edu)
