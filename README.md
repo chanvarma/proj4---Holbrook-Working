@@ -4,6 +4,7 @@
 ## Start here
 
 - [Datahub link](http://datahub.berkeley.edu/user-redirect/interact?account=chanvarma&repo=proj4-eep153sp19-holbrook-working&branch=master&path=)
+- Go to code > open 'Project 4 | Main Workbook'
 
 ## The Project
 
